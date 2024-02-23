@@ -27,7 +27,9 @@ Current apps being tracked are 3 browsers (Firefox, Chrome and Opera).
 To add more apps, add the last word of their name in lowercase to
 the APP_NAMES array in constants.py. Use the output from the bash file
 to get the correct name.
+
 Ex: README.md - deploy - Visual Studio Code 6
+
 Insert "code" into the APP_NAMES array to track and display the total
 time spent on visual studio code.
 
